@@ -56,3 +56,6 @@
   margin-bottom: 10px;
   display: block;
 }
+.user-component__subtitle i {
+  color: red;
+}

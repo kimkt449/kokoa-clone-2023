@@ -1,0 +1,6 @@
+.alt-header__column:last-child span:first-child {
+  margin-right: 10px;
+}
+#chat-screen {
+  background-color: #abc1d1;
+}
